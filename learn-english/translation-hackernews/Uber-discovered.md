@@ -1,4 +1,4 @@
-# Uber discovered they’d been defrauded out of 2/3 of their ad spend
+># Uber discovered they’d been defrauded out of 2/3 of their ad spend
 
 詳しく翻訳してしまうと著作権やら翻訳権?やらが怖いので、わからんかった単語を書きまくる。
 
@@ -148,4 +148,4 @@ ping ... 覗く?
 
 quietly ... 静かに、粛々と
 
-handled ... 扱っていない?
+handled ... 扱っている?
