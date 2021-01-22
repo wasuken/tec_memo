@@ -1,0 +1,5 @@
+# Stepping up for a truly open source Elasticsearch
+
+[Stepping up for a truly open source Elasticsearch | AWS Open Source Blog](https://aws.amazon.com/jp/blogs/opensource/stepping-up-for-a-truly-open-source-elasticsearch/)
+
+## 英単語
