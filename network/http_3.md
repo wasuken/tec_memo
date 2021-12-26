@@ -45,3 +45,23 @@ QUICはTLSv1.3の0-RTThand shake時にdataを含めることができる。
 ここまで。
 
 ---
+
+## load balancing
+
+[インフラエンジニアなら気になるQUICのロードバランサ (方式編)](https://medium.com/nttlabs/quic-load-balancer-design-82c5fbae8305)
+
+clientから見るとconnectionを張っているend hostはlayer7。
+
+### layer4による分散を行った場合
+
+client - lb - srv
+
+にて、lb -> srvにてconnectionを伸ばした場合、
+
+通常UDPのlbは4タプル情報(送信先IPアドレス, 送信元IPアドレス, 送信先ポート番号, 送信元ポート番号)
+
+にて分けますが、QUICでは同一のconnectionでもこれが一致するとは限らない。
+
+quicはclientのIP address, portが変更されてもconnection維持は可能。
+
+また、変更時のnegotiation内部は暗号化されているので、追跡も不可能。https://mintblog.hatenablog.com/?_ga=2.66752366.15256710.1632532426-1977540149.1625879509
