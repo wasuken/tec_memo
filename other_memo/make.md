@@ -1,9 +1,11 @@
 ---
-title: "<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">三日で私の思い描く、とりあえずは動くSchemeもどきを書くやつ挑戦したい。しよう。というわけで<br>とりあえず2/14が終わるまではツイートしない。<br>ブログツイートは許可する。</p>&mdash; black-box (@black_box_rx) <a href="https://twitter.com/black_box_rx/status/1226842586091945985?ref_src=twsrc%5Etfw">February 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-"
+title: "負け"
 date: 2022-1-3T10:00:00+08:00
 draft: false
 ---
+
+# 負け
+
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">三日で私の思い描く、とりあえずは動くSchemeもどきを書くやつ挑戦したい。しよう。というわけで<br>とりあえず2/14が終わるまではツイートしない。<br>ブログツイートは許可する。</p>&mdash; black-box (@black_box_rx) <a href="https://twitter.com/black_box_rx/status/1226842586091945985?ref_src=twsrc%5Etfw">February 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
