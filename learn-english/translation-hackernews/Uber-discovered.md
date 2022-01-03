@@ -1,10 +1,9 @@
 ---
-title: "># Uber discovered they’d been defrauded out of 2/3 of their ad spend
-"
+title: "># Uber discovered they’d been defrauded out of 2/3 of their ad spend"
 date: 2022-1-3T10:00:00+08:00
 draft: false
 ---
-># Uber discovered they’d been defrauded out of 2/3 of their ad spend
+# Uber discovered they’d been defrauded out of 2/3 of their ad spend
 
 
 

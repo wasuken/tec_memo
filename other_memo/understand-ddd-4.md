@@ -1,9 +1,11 @@
 ---
-title: "[わかる！ドメイン駆動設計 ～もちこちゃんの大冒険～【C91新刊】 - TechBooster - BOOTH](https://booth.pm/ja/items/392260)"
+title: "dddの理解を深める 4"
 date: 2022-1-3T10:00:00+08:00
 draft: false
 ---
-# [わかる！ドメイン駆動設計 ～もちこちゃんの大冒険～【C91新刊】 - TechBooster - BOOTH](https://booth.pm/ja/items/392260)
+# dddの理解を深める 4
+
+[わかる！ドメイン駆動設計 ～もちこちゃんの大冒険～【C91新刊】 - TechBooster - BOOTH](https://booth.pm/ja/items/392260)
 
 
 
