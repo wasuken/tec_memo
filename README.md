@@ -1,6 +1,6 @@
 ---
 title: "技術Memo集"
-date: 2022-1-3T10:00:00+08:00
+date: 2022-1-3
 draft: false
 ---
 # 技術Memo集

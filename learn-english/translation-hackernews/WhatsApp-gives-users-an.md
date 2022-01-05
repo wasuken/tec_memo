@@ -1,6 +1,6 @@
 ---
 title: "WhatsApp gives users an ultimatum: Share data with Facebook or stop using the app"
-date: 2022-1-3T10:00:00+08:00
+date: 2022-1-3
 draft: false
 ---
 # WhatsApp gives users an ultimatum: Share data with Facebook or stop using the app

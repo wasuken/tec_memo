@@ -1,6 +1,6 @@
 ---
 title: "ackermann-function-rust-reading(2020-01-19 15:49:27)"
-date: 2022-1-3T10:00:00+08:00
+date: 2022-1-3
 draft: false
 ---
 # ackermann-function-rust-reading(2020-01-19 15:49:27)

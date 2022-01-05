@@ -1,6 +1,6 @@
 ---
 title: "Stepping up for a truly open source Elasticsearch"
-date: 2022-1-3T10:00:00+08:00
+date: 2022-1-3
 draft: false
 ---
 # Stepping up for a truly open source Elasticsearch
