@@ -1,6 +1,6 @@
 ---
 title: "「Write yourself a git」を写経しつつ、読んだときのメモ"
-date: 2022-1-3
+date: 2022-01-03
 draft: false
 ---
 # 「Write yourself a git」を写経しつつ、読んだときのメモ

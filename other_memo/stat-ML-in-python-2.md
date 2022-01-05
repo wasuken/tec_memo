@@ -1,6 +1,6 @@
 ---
 title: "Pythonで始める統計的機械学習"
-date: 2022-1-3
+date: 2022-01-03
 draft: false
 ---
 # Pythonで始める統計的機械学習

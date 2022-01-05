@@ -1,6 +1,6 @@
 ---
 title: "「Let's Build a Simple Database」を読みながら写経しつつ、メモを取る"
-date: 2022-1-3
+date: 2022-01-03
 draft: false
 ---
 # 「Let's Build a Simple Database」を読みながら写経しつつ、メモを取る

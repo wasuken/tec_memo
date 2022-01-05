@@ -1,6 +1,6 @@
 ---
 title: "Common LispでRSAを実装してみる。"
-date: 2022-1-3
+date: 2022-01-03
 draft: false
 ---
 # Common LispでRSAを実装してみる。

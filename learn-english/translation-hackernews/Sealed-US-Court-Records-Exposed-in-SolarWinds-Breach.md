@@ -1,6 +1,6 @@
 ---
 title: "Sealed U.S. Court Records Exposed in SolarWinds Breach"
-date: 2022-1-3
+date: 2022-01-03
 draft: false
 ---
 # Sealed U.S. Court Records Exposed in SolarWinds Breach

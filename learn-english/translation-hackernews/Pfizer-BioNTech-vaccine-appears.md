@@ -1,6 +1,6 @@
 ---
 title: "Pfizer-BioNTech vaccine appears effective against mutation in new coronavirus variants, study suggests"
-date: 2022-1-3
+date: 2022-01-03
 draft: false
 ---
 # Pfizer-BioNTech vaccine appears effective against mutation in new coronavirus variants, study suggests

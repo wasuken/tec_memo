@@ -1,6 +1,6 @@
 ---
 title: "PeerTube v3 : it’s a live, a liiiiive !"
-date: 2022-1-3
+date: 2022-01-03
 draft: false
 ---
 # PeerTube v3 : it’s a live, a liiiiive !

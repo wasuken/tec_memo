@@ -1,6 +1,6 @@
 ---
 title: "VCS開発メモとか"
-date: 2022-1-3
+date: 2022-01-03
 draft: false
 ---
 # VCS開発メモとか

@@ -1,6 +1,6 @@
 ---
 title: "Intel outsources Core i3 to TSMC's 5nm process"
-date: 2022-1-3
+date: 2022-01-03
 draft: false
 ---
 # Intel outsources Core i3 to TSMC's 5nm process

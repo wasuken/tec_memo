@@ -1,6 +1,6 @@
 ---
 title: "dockerから/dev/audioをマウントして利用する前に色々と考えてみる。"
-date: 2022-1-3
+date: 2022-01-03
 draft: false
 ---
 # dockerから/dev/audioをマウントして利用する前に色々と考えてみる。

@@ -1,6 +1,6 @@
 ---
 title: "特定のVLAN内でDHCPを配布する。"
-date: 2022-1-3
+date: 2022-01-03
 draft: false
 ---
 # 特定のVLAN内でDHCPを配布する。

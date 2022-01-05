@@ -1,6 +1,6 @@
 ---
 title: "自宅NW開発メモ"
-date: 2022-1-3
+date: 2022-01-03
 draft: false
 ---
 # 自宅NW開発メモ

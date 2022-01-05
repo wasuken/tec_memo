@@ -1,6 +1,6 @@
 ---
 title: "ソフトウェアアーキテクト"
-date: 2022-1-3
+date: 2022-01-03
 draft: false
 ---
 [O'Reilly Japan - Design It!](https://www.oreilly.co.jp/books/9784873118956/)

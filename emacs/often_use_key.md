@@ -1,6 +1,6 @@
 ---
 title: "よく使うKey、忘れるけど便利なKey,Command"
-date: 2022-1-3
+date: 2022-01-03
 draft: false
 ---
 # よく使うKey、忘れるけど便利なKey,Command

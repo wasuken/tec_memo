@@ -1,6 +1,6 @@
 ---
 title: "貪欲法"
-date: 2022-1-3
+date: 2022-01-03
 draft: false
 ---
 # 貪欲法

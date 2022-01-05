@@ -1,6 +1,6 @@
 ---
 title: "Tramp時はneotreeよりdiredの方が早い"
-date: 2022-1-3
+date: 2022-01-03
 draft: false
 ---
 # Tramp時はneotreeよりdiredの方が早い

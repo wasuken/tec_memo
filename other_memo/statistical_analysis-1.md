@@ -1,6 +1,6 @@
 ---
 title: "Pythonによる統計分析入門"
-date: 2022-1-3
+date: 2022-01-03
 draft: false
 ---
 # Pythonによる統計分析入門

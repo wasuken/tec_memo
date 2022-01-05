@@ -1,6 +1,6 @@
 ---
 title: "dddの理解を深める 2"
-date: 2022-1-3
+date: 2022-01-03
 draft: false
 ---
 # dddの理解を深める 2

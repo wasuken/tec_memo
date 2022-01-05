@@ -1,6 +1,6 @@
 ---
 title: "org-modeでタスク管理してみた。"
-date: 2022-1-3
+date: 2022-01-03
 draft: false
 ---
 # org-modeでタスク管理してみた。

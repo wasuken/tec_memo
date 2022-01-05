@@ -1,6 +1,6 @@
 ---
 title: "viteでReactとRecoil使ってみた。"
-date: 2022-1-3
+date: 2022-01-03
 draft: false
 ---
 # viteでReactとRecoil使ってみた。

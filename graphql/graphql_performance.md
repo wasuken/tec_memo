@@ -1,6 +1,6 @@
 ---
 title: "graphql採用時のperformance関連のめも"
-date: 2022-1-3
+date: 2022-01-03
 draft: false
 ---
 # graphql採用時のperformance関連のめも
