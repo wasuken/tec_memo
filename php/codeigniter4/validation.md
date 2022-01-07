@@ -1,3 +1,13 @@
+---
+title: "codeigniter-validation"
+description:
+date: 2022-01-08
+draft: false
+categories:
+  - ""
+tags:
+  - ""
+---
 # Validation
 
 ## 使いまわすな？
