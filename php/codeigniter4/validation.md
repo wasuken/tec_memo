@@ -4,9 +4,11 @@ description:
 date: 2022-01-08
 draft: false
 categories:
-  - ""
+  - coding
 tags:
-  - ""
+  - php
+  - codeigniter
+  - validation
 ---
 # Validation
 
