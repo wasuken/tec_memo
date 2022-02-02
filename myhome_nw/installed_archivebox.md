@@ -8,6 +8,8 @@ categories:
 tags:
   - "linux"
   - "archivebox"
+  - "archlinux"
+  - "install"
 ---
 # ArchiveBox導入してみた
 
