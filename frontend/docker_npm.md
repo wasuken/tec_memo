@@ -1,5 +1,5 @@
 ---
-title: "全然わからん"
+title: "dockerでnpmいれる(apt)"
 date: 2022-03-11
 draft: false
 categories:
@@ -10,8 +10,6 @@ tags:
   - "apt"
   - "npm"
 ---
-
-# dockerでnpmいれる(apt)
 
 したで解決!
 
