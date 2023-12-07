@@ -1,12 +1,12 @@
 ---
 title: "ChatGPTに問題をだしてもらって、それにこたえる"
 description:
-  date: 2023-11-27
-  draft: false
-  categories:
-    - "learn"
-    tags:
-      - "learn"
+date: 2023-11-27
+draft: false
+categories:
+  - "learn"
+tags:
+  - "learn"
 ---
 
 問題：フィボナッチ数列の偶数値の和
