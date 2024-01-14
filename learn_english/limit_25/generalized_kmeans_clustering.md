@@ -28,13 +28,19 @@ Batch K-MeansとStreaming K-Meansを実装している。
 
 ## なにこれ
 
+k-meansライブラリ？
+
 ## なにができるの
+
+k-meansを実装できる。
 
 ## 利用されている技術
 
 Scala
 
 ## どんなときに役にたつの
+
+k-meansを実装するとき？
 
 # 補足
 
