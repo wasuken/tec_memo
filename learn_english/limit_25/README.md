@@ -23,3 +23,21 @@ tags:
 - 25 分におわること
 - わからない単語は意味をしらべる
 - 翻訳ツールはつかってもよい
+
+# テンプレート
+
+```
+---
+title: ""
+description:
+date: 2024-01-06
+draft: false
+categories:
+  - "learn_english"
+tags:
+  - "english"
+  - "learn"
+  - "limit25"
+  - "translate"
+---
+```
