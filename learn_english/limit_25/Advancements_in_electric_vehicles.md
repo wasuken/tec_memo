@@ -1,7 +1,7 @@
 ---
 title: "Advancements in electric vehicles"
 description:
-date: 2024-01-06
+date: 2024-02-13
 draft: false
 categories:
   - "learn_english"
@@ -37,6 +37,10 @@ EVマーケットは先進的なバッテリー技術と環境意識の増進の
 世界中の政府はこの移行、そして開発インフラへの移行を補助している
 
 この電動モビリティへの遷移は炭素排出削減と気候変動対策の重要なステップです。
+
+# ご指摘
+
+とくになかった。
 
 # 単語とか
 
