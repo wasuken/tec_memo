@@ -16,7 +16,7 @@ tags:
 
 In the world of technology, "websites" are like digital homes on the Internet.
 Every website has a unique address called a "URL" which stands for Uniform Resource Locator.
-When you type this address into your web browser, it takes you to that website.
+When you type this address in1to your web browser, it takes you to that website.
 
 Websites are made with a special language called "HTML", which stands for HyperText Markup Language.
 It's like the building blocks for websites, telling the browser how to display the website's content.
@@ -48,7 +48,7 @@ There's so much more to explore!
 こうして私達はネットサーフィンや、異なるページから遷移する。
 
 ウェブサイトをより美しく、双方向的にみえるようにつくるために私達は"CSS"や"JavaScript"をつかいます。
-CSShaCascading Style Sheets の略称で、ウェブサイトデザインや色やフォントなどを管理します。
+CSS は Cascading Style Sheets の略称で、ウェブサイトデザインや色やフォントなどを管理します。
 JavaScript はウェブサイトを対話的にし、ゲームやフォームのようなものが機能するようにつくります。
 
 おぼえておいてほしいのは
